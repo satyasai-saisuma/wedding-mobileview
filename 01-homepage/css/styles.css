@@ -146,7 +146,7 @@ b.light-color{ color: #444; }
 --------------------------------- */
 
 header{ position: absolute; left: 0; right: 0; top: 20px; z-index: 1000; font-size: 1.5em; 
-	border-bottom: 1px solid rgba(255,255,255, .2); color: #fff; background-color: black;}
+	border-bottom: 1px solid rgba(255,255,255, .2); color: #fff;}
 
 	
 /* MIDDLE AREA */
